@@ -8,4 +8,11 @@ Talking Faces - http://www-prima.inrialpes.fr/FGnet/data/01-TalkingFace/talking_
 GI4E - http://gi4e.unavarra.es/databases/gi4e/
 
 ## Eye Detector
+Using `detector.py` create HOG based eye Detector.
+
+## Training
+We need to create a shape predictor for eyes. We achieve this by using `createxml.py` and `training.py`. Once the eye Detector and shape predictor are create we can do iris localization. 
+
+## Iris Localization
+Iris Localization is carried out by using `irislocalization.py` . We use dlib frontal face detector to detect face in the image. Once a face is found we run HoG based eye detector followed by shape predictor.
 
