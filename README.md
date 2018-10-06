@@ -17,6 +17,6 @@ We need to create a shape predictor for eyes. We achieve this by using `createxm
 Iris Localization is carried out by using `irislocalization.py` . We use dlib frontal face detector to detect face in the image. Once a face is found we run HoG based eye detector followed by shape predictor.
 
 ## Results
-![] (https://github.com/raj-shah14/Iris-Localization/blob/master/video_gaze.mp4)
+
 ![] (https://github.com/raj-shah14/Iris-Localization/blob/master/Screenshot%20from%202018-10-06%2008-49-20.png)
 ![] (https://github.com/raj-shah14/Iris-Localization/blob/master/Screenshot%20from%202018-10-06%2008-51-03.png)
