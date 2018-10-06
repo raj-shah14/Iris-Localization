@@ -18,5 +18,5 @@ Iris Localization is carried out by using `irislocalization.py` . We use dlib fr
 
 ## Results
 
-![alt_text] (https://github.com/raj-shah14/Iris-Localization/blob/master/glasses1.png)
-![alt_text] (https://github.com/raj-shah14/Iris-Localization/blob/master/glasses2.png)
+![alt_text](https://github.com/raj-shah14/Iris-Localization/blob/master/glasses1.png)
+![alt_text](https://github.com/raj-shah14/Iris-Localization/blob/master/glasses2.png)
